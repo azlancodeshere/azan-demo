@@ -1,3 +1,3 @@
 # azan-demo
-this is m first repository.
+this is my first repository.
 author- Abdul Yasin
